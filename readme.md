@@ -1,8 +1,6 @@
 ## Procedimento do CRUD no link abaixo!
-<p>Procedimento do CRUD no link abaixo!</p>
 <p>Link: https://appdividend.com/2018/11/17/vue-laravel-crud-example-tutorial-from-scratch/</p>
-<hr>
-
+## -
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
